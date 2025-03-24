@@ -8,7 +8,7 @@ let faviconURL = '/favicon.svg'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/",
+  base: "/lazy-dog-pwa/",
   plugins: [
     react(),
     VitePWA({
